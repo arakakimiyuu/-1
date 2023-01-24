@@ -69,13 +69,25 @@ footer {
 @media screen and (max-width: 768px){
   main{
     width:100%;
-    display:blok;
+    display:block;
+    margin:50px 0 50px 0;
+    padding:0 10% 0 10%;
   }
 
   .step-box{
-    width:90%;
+    width:100%;
+    margin-bottom: 20px ;
+ }
+
+  .step-img1{
+   width: 90%;
   }
 
+  .step-img2{
+   width: 90%;
+  }
 
-
+  .step-img3{
+   width: 90%;
+  }
 }
